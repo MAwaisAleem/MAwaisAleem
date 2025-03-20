@@ -1,4 +1,4 @@
-![logo](https://github.com/MAwaisAleem/New-repository/blob/master/Github%20Banner-01.jpg)
+![logo](https://github.com/MAwaisAleem/MAwaisAleem/blob/master/Github%20Banner-01.jpg)
 <h1 align="center">Hi 👋, I'm Awais Aleem</h1>
 <h3 align="center">Passionate React.js Developer | Frontend Enthusiast from Pakistan</h3>
 
